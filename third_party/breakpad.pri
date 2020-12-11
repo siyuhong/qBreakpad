@@ -43,6 +43,7 @@ unix:!mac {
         $$BREAKPAD_PATH/client/linux/minidump_writer/linux_ptrace_dumper.cc \
         $$BREAKPAD_PATH/client/linux/minidump_writer/minidump_writer.cc \
         $$BREAKPAD_PATH/client/linux/handler/minidump_descriptor.cc \
+        $$BREAKPAD_PATH/common/linux/breakpad_getcontext.S \
         $$BREAKPAD_PATH/client/linux/handler/exception_handler.cc \
         $$BREAKPAD_PATH/common/linux/guid_creator.cc \
         $$BREAKPAD_PATH/common/linux/file_id.cc \
