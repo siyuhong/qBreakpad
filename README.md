@@ -1,5 +1,4 @@
-#qBreakpad
-
+# qBreakpad
 [![Build status](https://travis-ci.org/buzzySmile/qBreakpad.svg?branch=master)](https://travis-ci.org/buzzySmile/qBreakpad)
 
 qBreakpad is Qt library to use google-breakpad crash reporting facilities (and using it conviniently).
@@ -42,3 +41,8 @@ Getting started with Google Breakpad
 https://chromium.googlesource.com/breakpad/breakpad/+/master/docs/getting_started_with_breakpad.md
 
 Detail description about integration `qBreakpad` into your system and platform you could find in **[Wiki](https://github.com/buzzySmile/qBreakpad/wiki)**.
+
+Blog
+----------------
+[qBreakpad - LINUX捕获程序崩溃异常](https://blog.csdn.net/weixin_40774605/article/details/110970802)
+
